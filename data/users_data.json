@@ -1,0 +1,48 @@
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$DkvjejdGBRDX9J68QJTAYt$cZClmZpZu57HyVFehkfXvXS0yyxMDtvOTr3ynOi5JTA=",
+      "last_login": "2024-08-02T20:35:15Z",
+      "is_superuser": true,
+      "first_name": "Shadow",
+      "last_name": "Fish",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-08-02T20:16:14Z",
+      "email": "shadowfish@yandex.ru",
+      "phone": null,
+      "city": "Sankt-Peterburg",
+      "avatar": "",
+      "tg_nick": "TheShadowfish",
+      "tg_chat_id": "1567728836",
+      "time_offset": 3,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$jZThAipKiLgrOlQh5P6SiD$jHS96qkSKWvElolMVUNineyYDkV0pRP18LFJynz9jlU=",
+      "last_login": "2024-08-02T21:29:52.721Z",
+      "is_superuser": true,
+      "first_name": "Admin",
+      "last_name": "SkyPro",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-08-02T21:28:56.122Z",
+      "email": "admin@sky.pro",
+      "phone": null,
+      "city": null,
+      "avatar": "",
+      "tg_nick": null,
+      "tg_chat_id": "1567728836",
+      "time_offset": 3,
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
