@@ -3,9 +3,11 @@
 1. Настройте свой сервер (система Ubuntu 22.04)
 
 
-2. Создайте на сервере ssh ключ, запульте из репозитория на github 
+2. Создайте на сервере ssh ключ, запульте из репозиторий из gitlab 
 
-(git@github.com:TheShadowfish/CW_8_atomic_habits_docker.git) код проекта, 
+(git@github.com:TheShadowfish/CW_8_atomic_habits_docker.git)
+(git@gitlab.com:test1360134/cw_8.git)
+код проекта, 
 Код клонировать на свой репозиторий и пулить оттуда.
 При необходимости прописать в config/settings.py адрес сервера в ALLOWED_HOSTS = [<адрес сервера>] (строка 17)
 Создайте на сервере в корне проекта файл .env по образцу **.env-sample**
