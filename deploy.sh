@@ -5,5 +5,5 @@
 #python3 manage.py collectstatic --no-input
 
 docker-compose up --build -d
-docker-compose exec app python manage.py migrate
+#docker-compose exec app python manage.py migrate
 #dockerdocmpose exec app python manage.py createsuperuser
